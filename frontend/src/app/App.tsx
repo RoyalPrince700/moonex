@@ -5,7 +5,7 @@ import WhyMoonex from "../sections/WhyMoonex";
 import OurFeatures from "../sections/OurFeatures";
 import FAQs from "../sections/FAQs";
 import Footer from "../sections/Footer";
-import './index.css'; // Import Tailwind CSS
+import './index.css'; 
 
 
 
