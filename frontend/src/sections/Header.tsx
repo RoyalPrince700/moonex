@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import  { useState } from "react";
 import { FiMenu } from "react-icons/fi"; // Importing the hamburger icon
 import { IoMdClose } from "react-icons/io"; // Importing the close icon
 import LOGO from "../assets/logo.png"; // Importing the logo image

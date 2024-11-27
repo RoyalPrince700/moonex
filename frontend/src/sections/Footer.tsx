@@ -1,4 +1,3 @@
-import React from "react";
 import footerLogo from "../assets/footerlogo.png";
 import telegramIcon from "../assets/telegram.png";
 import twitterIcon from "../assets/Twitter.png";

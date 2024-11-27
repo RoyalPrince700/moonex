@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 import phone from "../assets/phone.png";
 import setting from "../assets/setting.png";
 import dollar from "../assets/dollar.png";
