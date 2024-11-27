@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import plus from "../assets/plus.png";
 import down from "../assets/down.png";
 import backgroundfaq from "../assets/bgfaq.png";
